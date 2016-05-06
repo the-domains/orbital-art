@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "I came to painting late and somewhat accidentally. I worked as an architect in London for almost 20 years before starting to paint in my early 40's. As an Architect I worked with Lord Norman Foster, with whom I was a partner for many years, and the late Dame Zaha Hadid."
-datePublished: '2016-05-06T21:13:40.059Z'
-dateModified: '2016-05-06T21:13:30.008Z'
+datePublished: '2016-05-06T21:19:38.016Z'
+dateModified: '2016-05-06T21:19:29.722Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-06-i-came-to-painting-late-and-somewhat-accidentally-i-worked.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-06-i-came-to-painting-late-and-somewhat-accidentally-i-worked.md
 url: i-came-to-painting-late-and-somewhat-accidentally-i-worked/index.html
 _type: Article
 
